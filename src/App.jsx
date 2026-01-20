@@ -210,9 +210,9 @@ export default function Portfolio() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
-            Muhammad
+            Muhammad  Ashhad
             <span className="block bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 bg-clip-text text-transparent mt-2">
-              Ashhad
+             
             </span>
           </motion.h1>
           
