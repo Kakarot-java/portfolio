@@ -636,7 +636,7 @@ export default function Portfolio() {
             <div className="mt-8 sm:mt-12 pt-6 sm:pt-8 border-t border-purple-500/20">
               <div className="flex justify-center gap-4 sm:gap-6">
                 <motion.a
-                  href="ADD_YOUR_GITHUB_URL_HERE"
+                  href="https://github.com/Kakarot-java"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 sm:p-4 bg-purple-600/20 rounded-lg border border-purple-500/30"
@@ -651,7 +651,7 @@ export default function Portfolio() {
                   <Github size={20} className="sm:w-6 sm:h-6" />
                 </motion.a>
                 <motion.a
-                  href="ADD_YOUR_LINKEDIN_URL_HERE"
+                  href="www.linkedin.com/in/muhammad-ashhad-3a00652bb"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 sm:p-4 bg-purple-600/20 rounded-lg border border-purple-500/30"
@@ -666,7 +666,7 @@ export default function Portfolio() {
                   <Linkedin size={20} className="sm:w-6 sm:h-6" />
                 </motion.a>
                 <motion.a
-                  href="mailto:ADD_YOUR_EMAIL_HERE"
+                  href="mailto:muhammadashhad120767@gmail.com"
                   className="p-3 sm:p-4 bg-purple-600/20 rounded-lg border border-purple-500/30"
                   title="Email"
                   initial={{ opacity: 0, y: 20 }}
