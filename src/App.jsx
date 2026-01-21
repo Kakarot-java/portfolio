@@ -651,7 +651,7 @@ export default function Portfolio() {
                   <Github size={20} className="sm:w-6 sm:h-6" />
                 </motion.a>
                 <motion.a
-                  href="www.linkedin.com/in/muhammad-ashhad-3a00652bb"
+                  href="https://www.linkedin.com/in/muhammad-ashhad-3a00652bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtJb0qgXQQhiQCPbvpnf%2FAg%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 sm:p-4 bg-purple-600/20 rounded-lg border border-purple-500/30"
@@ -666,7 +666,7 @@ export default function Portfolio() {
                   <Linkedin size={20} className="sm:w-6 sm:h-6" />
                 </motion.a>
                 <motion.a
-                  href="mailto:muhammadashhad120767@gmail.com"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammadashhad120767@gmail.com&su=Get%20in%20touch&body=Hello%20Muhammad%20Ashhad,"
                   className="p-3 sm:p-4 bg-purple-600/20 rounded-lg border border-purple-500/30"
                   title="Email"
                   initial={{ opacity: 0, y: 20 }}
